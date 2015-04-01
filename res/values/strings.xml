@@ -800,7 +800,6 @@
     <!-- Bookmarks -->
     <string-array name="bookmarks" translatable="false">
         <item>Google</item>
-        <item>www.google.com</item>
     </string-array>
 
     <!-- The description of the suggestion that lets the user search the web for the query currently
